@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I’m currently learning Web-Development @WBS-Coding-School. 
+
+For a long time I always came back to "programming" as kind of a hobby but never had any intentions to do it in terms of a professional career. 
+
+But... the time has finally come and I am very happy and excited to start the journey.
+It starts here ;) 
+
 <!--
 **arminebner/arminebner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
