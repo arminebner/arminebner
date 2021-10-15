@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I’m currently involved in the Pexon-Consulting Trainee-Program.
-
-So I am currently learning Python, CI/CD and Cloud-Technologies.
+I’m a junior fullstack developer at Modell Aachen. We make QM-software - wiki-style!
 
 <!--
 **arminebner/arminebner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
