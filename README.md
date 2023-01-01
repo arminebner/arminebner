@@ -2,9 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 I am a fullstack developer with a passion for everything IT
+-----------------------------------------------------------
+
 * 🌍  I'm based in Cologne
-*  🧠  I'm learning the finer points of Vue, Express, Postgres, also Design Patterns and how to develop on WSL2
-*  ⚡  I like mountainbikes and airplanes
+* 🚀  I'm currently working on gaining deeper knowledge about Software Design like DDD and Development Paradigms such as TDD
+* 🧠  I'm learning the finer points of Vue, Express, Postgres, also Design Patterns and how to develop on WSL2
+* ⚡  I like mountainbikes and airplanes
 
 ### Skills
 
